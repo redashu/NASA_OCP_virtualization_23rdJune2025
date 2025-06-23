@@ -100,3 +100,8 @@ oc get pods
 
 <img src="virt2.png">
 
+
+
+### verify vm from oc cli 
+
+<img src="virt3.png">
