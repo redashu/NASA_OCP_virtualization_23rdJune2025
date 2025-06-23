@@ -87,3 +87,16 @@ oc get pods
 ### virt-launcher --  A pod that wraps and runs actual VM using KVM /libvirtd
 
 <img src="kvm8.png">
+
+## Before we install kubevirt-project  (openshift virtualization)
+
+### checking on worker side 
+
+### hardware virtualzation support and kernel module 
+
+<img src="virt1.png">
+
+### login to openshfit webUI 
+
+<img src="virt2.png">
+
