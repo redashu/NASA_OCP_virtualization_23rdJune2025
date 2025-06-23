@@ -52,3 +52,38 @@ oc run ashupod1 --image quay.io/jay1123/nginx:codev1
 ===> to check 
 oc get pods
 ```
+
+## Kubelet to connect any Hypervisor and create vm inside POd ENV 
+
+<img src="kvm1.png">
+
+
+### kubelet to KVM
+
+<img src="kvm2.png">
+
+### Info about Libvirtd 
+
+<img src="kvm3.png">
+
+### kubevirt visual look 
+
+<img src="kvm4.png">
+
+# kubevirt architecture 
+
+<img src="kvm5.png">
+
+## Components of kubevirt project 
+
+### Virt-controller
+
+<img src="kvm6.png">
+
+### virt-handler -- managing vm on its own worker machine only
+
+<img src="kvm7.png">
+
+### virt-launcher --  A pod that wraps and runs actual VM using KVM /libvirtd
+
+<img src="kvm8.png">
