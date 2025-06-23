@@ -1,1 +1,3 @@
-# NASA_OCP_virtualization_23rdJune2025
+### Session Timings 
+
+<img src="time.png">
