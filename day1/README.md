@@ -39,3 +39,16 @@ kubectl version
 ```
 oc version 
 ```
+
+## checking project details 
+
+<img src="ns1.png">
+
+### creating pod using oc 
+
+```
+oc run ashupod1 --image quay.io/jay1123/nginx:codev1 
+
+===> to check 
+oc get pods
+```
