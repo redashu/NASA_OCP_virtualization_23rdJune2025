@@ -42,3 +42,8 @@ oc login -u admin -p redhatocp  https://api.ocp4.example.com:6443
 
 <img src="vm6.png">
 
+# Networking in OCP 
+
+### POD networking using CNI 
+
+<img src="cni1.png">
