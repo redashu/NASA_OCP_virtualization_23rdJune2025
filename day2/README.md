@@ -47,3 +47,41 @@ oc login -u admin -p redhatocp  https://api.ocp4.example.com:6443
 ### POD networking using CNI 
 
 <img src="cni1.png">
+
+## by default pod can communicate but its not a good idea to do communication using pod IP
+
+<img src="cni2.png">
+
+### service in openshift ENV 
+
+<img src="cni3.png">
+
+### creating clusterIP type service 
+
+<img src="cni4.png">
+
+### clusterip vs Nodeport/Loadbalancer 
+
+<img src="cni5.png">
+
+### checking default network of service and pod ranges in OCP cluster 
+
+<img src="cni6.png">
+
+### service name with internal DNS in ocp 
+
+
+<img src="cni7.png">
+
+### to create service in OCP 
+
+```
+virtctl expose  / oc expose 
+
+```
+<img src="cni8.png">
+
+### creating and verify service 
+
+
+<img src="cni9.png">
