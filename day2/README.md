@@ -29,3 +29,7 @@ oc login -u admin -p redhatocp  https://api.ocp4.example.com:6443
 ## accessing vm in ocp env 
 
 <img src="vm3.png">
+
+### using virtct to manage vm 
+
+<img src="vm4.png">
