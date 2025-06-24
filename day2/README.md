@@ -33,3 +33,12 @@ oc login -u admin -p redhatocp  https://api.ocp4.example.com:6443
 ### using virtct to manage vm 
 
 <img src="vm4.png">
+
+## virt-lancher pod can also handle vm using -- tool -- virsh
+
+<img src="vm5.png">
+
+### accessing using virt-launcher pod 
+
+<img src="vm6.png">
+
