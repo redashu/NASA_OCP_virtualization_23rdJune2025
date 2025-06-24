@@ -26,3 +26,6 @@ oc login -u admin -p redhatocp  https://api.ocp4.example.com:6443
 
 <img src="vm2.png">
 
+## accessing vm in ocp env 
+
+<img src="vm3.png">
