@@ -1,0 +1,14 @@
+apiVersion
+kind
+metadata
+spec:
+  containers:
+
+# vm 
+
+apiVersion
+kind
+metadata
+spec:
+  template:
+  domain:

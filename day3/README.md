@@ -29,3 +29,15 @@
 ### validate ocp web console with routes 
 
 <img src="net6.png">
+
+### option for creating service 
+
+<img src="net7.png">
+
+### creating service 
+
+
+<img src="net8.png">
+
+### yaml after changes
+<img src="net9.png">
