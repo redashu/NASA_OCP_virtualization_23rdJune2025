@@ -59,3 +59,6 @@
 
 <img src="st3.png">
 
+### creating dv then vm using dv 
+
+<img src="st4.png">
