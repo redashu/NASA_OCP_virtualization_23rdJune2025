@@ -17,3 +17,7 @@
 ### Creating pod using deployment 
 
 <img src="net3.png">
+
+### exposing deployment to create service 
+
+<img src="net4.png">
