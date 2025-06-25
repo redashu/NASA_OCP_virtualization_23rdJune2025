@@ -46,3 +46,16 @@
 ### Route types in OCP 
 
 <img src="net10.png">
+
+# Storage in OCP 
+
+<img src="st1.png">
+
+## PV,pVC , Storage class in OCP 
+
+<img src="st2.png">
+
+### verify  few details 
+
+<img src="st3.png">
+
