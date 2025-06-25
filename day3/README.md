@@ -4,3 +4,16 @@
 
 <img src="rev1.png">
 
+### Exposing pod app (container / vm)  to outside OCP cluster -- using Router (Ingress+dns)
+
+<img src="net1.png">
+
+
+### verify openshift router status 
+
+<img src="net2.png">
+
+
+### Creating pod using deployment 
+
+<img src="net3.png">
