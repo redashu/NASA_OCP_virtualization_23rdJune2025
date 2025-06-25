@@ -21,3 +21,11 @@
 ### exposing deployment to create service 
 
 <img src="net4.png">
+
+### Creating routes by expose of service 
+
+<img src="net5.png">
+
+### validate ocp web console with routes 
+
+<img src="net6.png">
