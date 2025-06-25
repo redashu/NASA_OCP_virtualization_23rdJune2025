@@ -41,3 +41,8 @@
 
 ### yaml after changes
 <img src="net9.png">
+
+
+### Route types in OCP 
+
+<img src="net10.png">
