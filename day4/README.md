@@ -43,3 +43,13 @@
 ### readyness in VM 
 
 <img src="net9.png">
+
+
+## Understanding live migration in VM without OCP 
+
+<img src="net10.png">
+
+
+### Swap discussion with block and object storage
+
+<img src="net11.png">
