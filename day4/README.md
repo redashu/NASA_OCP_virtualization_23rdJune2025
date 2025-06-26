@@ -34,3 +34,12 @@
 ### Creating service 
 
 <img src="net7.png">
+
+### ReadinessProbe in OCP 
+
+<img src="net8.png">
+
+
+### readyness in VM 
+
+<img src="net9.png">
