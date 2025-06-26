@@ -11,3 +11,23 @@
 ### Storage in OCP ENV 
 
 <img src="st1.png">
+
+## Network policy 
+
+<img src="net3.png">
+
+### for network policy we need to have labels in target entity 
+
+
+<img src="net4.png">
+
+
+### checking network policy manifest file 
+
+<img src="net5.png">
+
+
+## HA in OCP for app running in POD -- container /vm 
+
+<img src="net6.png">
+
